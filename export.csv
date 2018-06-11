@@ -1,1 +1,6 @@
-name
+name,salary,tax_maybe,tax
+wang,2500,0,0.0
+zhang,7000,105,84.0
+li,8000,205,161.0
+song,9000,405,238.0
+tang,50000,800,9595.328
